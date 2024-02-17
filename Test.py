@@ -1,3 +1,1 @@
-a = 1
-print(a)
-a 
+print(1)
